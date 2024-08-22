@@ -1,1 +1,0 @@
-# bibtext-sog

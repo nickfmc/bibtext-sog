@@ -1,0 +1,102 @@
+
+.menu {
+	background: #A5BFDD ;
+}
+
+.btb-nav-title {
+	color: #fff;
+	font-family: 'Open Sans',sans-serif;
+	background: #393D46;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+	.btb-nav-title b {
+		padding-left: 3px;
+	}
+
+.rheader {
+	font-style: italic;
+}
+
+.poweredby {
+	display: none;
+}
+
+.btb-menu-items {
+	font-family: 'Open Sans',sans-serif;
+	font-size: 12px;
+}
+
+.btb-menu-items a {
+	color: #393D46;
+}
+
+.btb-nav a {
+	font-size: 9px;
+	line-height: 9px;
+	color: #fff;
+}
+
+
+/*Main*/
+
+.rheader {
+	background: #A5BFDD;
+	color: #393D46;
+}
+
+.result {
+	border-top: 2px solid #333;
+	border-left: 1px solid #333;
+	border-right: 1px solid #333;
+	border-bottom: 1px solid #333;
+
+}
+
+.sheader {
+	background: #393D46;
+	color: #fff;
+}
+
+.bibitem {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.lit-search {
+	background: #A5BFDD;
+	border: 1px solid #393D46;
+	margin-top: 10px;
+	width: 60px;
+}
+
+.bibtitle {
+	font-weight: 700;
+}
+
+.bibbooktitle {
+	font-style: italic;
+}
+
+input {
+	width: 95%;
+}
+
+#submit, button {
+	 border: 0;
+  background-color: #393D46;
+  color: #A5BFDD;
+  padding: 4px 8px;
+  margin-top: 5px;
+  margin-left: 2px;
+}
+
+  #submit:hover, button:hover {
+    color: #393D46;
+    background-color: #A5BFDD;
+  }
+
+#search_type {
+	margin-top: 8px;
+}
